@@ -17,4 +17,5 @@ class Product
         $this->dimensions = $dimensions;
         $this->weight = $weight;
     }
+
 }

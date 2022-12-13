@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ ."/Bed.php";
+require_once __DIR__ ."/Product.php";
 
 class Bed extends Product
 {
